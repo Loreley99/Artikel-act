@@ -22,14 +22,14 @@
 ## About our Website
 
 
-DER DIE DAS is a is a web-based application to help German learners memorise the gender of German nouns. 
+Artikel-Act is a is a web-based application to help German learners memorise the gender of German nouns. 
 
 
 ## Getting Started
 
 ### Install the Application
 
-1. Unzip the TASK3 package into your XAMPP file directory under htdocs.
+1. Unzip the package into your XAMPP file directory under htdocs.
 
 2. Import the words.sql file from the zip package into MySQL and name the database "words".
 
